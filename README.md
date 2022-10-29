@@ -1,6 +1,4 @@
-### 🎃I will have the best time of my life🎃
 
-##
 
 - 🔭 I’m currently working on Back-end
 - 🌱 I’m currently learning GO/Flutter
